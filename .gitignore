@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / Models / Figures
+data/*
+!data/README.md
+project3-eda/figures/*
+project4-ml/figures/*
+project4-ml/models/*
