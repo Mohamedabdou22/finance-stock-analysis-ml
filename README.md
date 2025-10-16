@@ -1,5 +1,7 @@
 # Finance Stock Analysis and Machine Learning
-[![Run Notebooks](https://github.com/<your-username>/finance-stock-analysis-ml/actions/workflows/run-notebooks.yml/badge.svg)](https://github.com/<your-username>/finance-stock-analysis-ml/actions/workflows/run-notebooks.yml)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
 
