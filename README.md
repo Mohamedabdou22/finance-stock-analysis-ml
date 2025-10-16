@@ -1,12 +1,14 @@
 # Finance Stock Analysis and Machine Learning
 
-<p align="center">
-  <a href="https://colab.research.google.com/github/Mohamedabdou22/finance-stock-analysis-ml/blob/main/project4-ml/n01527876_project4.ipynb" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-  </a>
-</p>
+<p align="center"><strong>▶️ Run the Notebooks on Google Colab</strong></p>
 
 <p align="center">
+  <!-- Project 4 ML -->
+  <a href="https://colab.research.google.com/github/Mohamedabdou22/finance-stock-analysis-ml/blob/main/project4-ml/n01527876_project4.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Project 4 (Machine Learning) in Colab"/>
+  </a>
+  &nbsp;&nbsp;
+  <!-- Project 3 EDA -->
   <a href="https://colab.research.google.com/github/Mohamedabdou22/finance-stock-analysis-ml/blob/main/project3-eda/n01527876_project3.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Project 3 (EDA) in Colab"/>
   </a>
