@@ -1,14 +1,14 @@
 # Finance Stock Analysis and Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 <p align="center">
   <a href="https://colab.research.google.com/github/Mohamedabdou22/finance-stock-analysis-ml/blob/main/project4-ml/n01527876_project4.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </p>
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 <p align="center">
   <img src="project4-ml/figures/results_metrics.png" alt="Results Snapshot (Test Set)" width="600"/>
