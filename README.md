@@ -6,9 +6,11 @@
   </a>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue"/>
+  <img src="https://img.shields.io/badge/License-MIT-green"/>
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
+</p>
 
 <p align="center">
   <img src="project4-ml/figures/results_metrics.png" alt="Results Snapshot (Test Set)" width="600"/>
